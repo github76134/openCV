@@ -1,0 +1,4 @@
+﻿  try.cpp
+e:\test code\opencv1\opencv1\try.cpp(28): warning C4002: too many arguments for function-like macro invocation 'assert'
+e:\test code\opencv1\opencv1\try.cpp(137): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+  opencv1.vcxproj -> E:\Test code\opencv1\x64\Debug\opencv1.exe
